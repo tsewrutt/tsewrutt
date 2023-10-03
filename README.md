@@ -29,7 +29,7 @@ Hi, I graduated from the University of New Brunswick with a Bachelor's in Comput
 
 [![](https://img.shields.io/badge/-tsewrutt.work@gmail.com-white?style=for-the-badge&logo=gmail)](tsewrutt.work@gmail.com)
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/toushal-sewruttun-513348257/)
-[![](https://img.shields.io/badge/ToushalS-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ToushalS)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ToushalS)
 
 
 [![Toushal's github stats](https://github-readme-stats.vercel.app/api?username=tsewrutt&show_icons=true&theme=chartreuse-dark)](https://github.com/tsewrutt/github-readme-stats)
