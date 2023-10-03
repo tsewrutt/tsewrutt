@@ -32,7 +32,7 @@ Hi, I graduated from the University of New Brunswick with a Bachelor's in Comput
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)(https://twitter.com/ToushalS)
 
 
-[![Toushal's github stats](https://github-readme-stats.vercel.app/api?username=ph504&show_icons=true&theme=chartreuse-dark)](https://github.com/tsewrutt/github-readme-stats)
+[![Toushal's github stats](https://github-readme-stats.vercel.app/api?username=tsewrutt&show_icons=true&theme=chartreuse-dark)](https://github.com/tsewrutt/github-readme-stats)
 
 </div>
 <!--
