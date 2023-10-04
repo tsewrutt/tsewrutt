@@ -3,7 +3,7 @@
 </h1>
 
 ## Bio
-Hi, I graduated from the University of New Brunswick with a Bachelor's in Computer Science in Spring 2023. Since my graduation, I have worked in the Human-Computer Interaction Lab at the University of New Brunswick as a Research Assistant. I running two study regarding the behaviour of robots and mixed reality respectively.
+Hi, I graduated from the University of New Brunswick with a Bachelor's in Computer Science in Spring 2023. Since my graduation, I have worked in the Human-Computer Interaction Lab at the University of New Brunswick as a Research Assistant. I am running two study regarding the behaviour of robots and mixed reality respectively.
 
 
 ## Skills and Technologies
