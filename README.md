@@ -25,7 +25,7 @@ Hi, I graduated from the University of New Brunswick with a Bachelor's in Comput
 ## Contact Me
 <div align="center">
 
-[![](https://img.shields.io/badge/-toushal6@gmail.com-white?style=for-the-badge&logo=gmail)](toushal6@gmail.com)
+[![](https://img.shields.io/badge/-toushal6@gmail.com-white?style=for-the-badge&logo=gmail)]
 [![](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/toushal-sewruttun-513348257/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ToushalS)
 
